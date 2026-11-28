@@ -13,7 +13,7 @@ members = ["core", "server", "plugins/photos"]
 
 [workspace.package]
 # The one version of the app, the core and the server.
-version = "0.1.22"
+version = "0.1.23"
 
 [lib]
 # The `_lib` suffix avoids a name clash between the library and the binary on Windows.

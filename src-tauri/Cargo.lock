@@ -3365,7 +3365,7 @@ dependencies = [
 
 [[package]]
 name = "phototek"
-version = "0.1.22"
+version = "0.1.23"
 dependencies = [
  "blake3",
  "cc",
@@ -3399,7 +3399,7 @@ dependencies = [
 
 [[package]]
 name = "phototek-core"
-version = "0.1.22"
+version = "0.1.23"
 dependencies = [
  "blake3",
  "chrono",
@@ -3420,7 +3420,7 @@ dependencies = [
 
 [[package]]
 name = "phototek-server"
-version = "0.1.22"
+version = "0.1.23"
 dependencies = [
  "axum",
  "base64 0.22.1",
@@ -4992,7 +4992,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-photos"
-version = "0.1.22"
+version = "0.1.23"
 dependencies = [
  "serde",
  "serde_json",
